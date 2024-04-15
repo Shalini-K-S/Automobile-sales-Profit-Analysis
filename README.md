@@ -49,4 +49,4 @@ Based on the analysis, we recommend the following actions:
 - Focus on expanding and promoting products in South region.
 - Can make bundle of most and least purchased products.
 ## Dashboard
-
+![Screenshot (20)](https://github.com/Shalini-K-S/SuperStore-Sales-Dashboard/assets/163270221/ad136a4d-3593-436c-b944-1e1e45e1f988)
