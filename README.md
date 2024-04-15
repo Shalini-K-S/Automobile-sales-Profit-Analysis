@@ -6,6 +6,7 @@
 - [Problem Analyzed](problem-analyzed)
 - [Results/Findings](results/findings)
 - [Recommendations](recommendations)
+- [Dashboard](dashboard)
 
 
 ## Project Overview
@@ -47,3 +48,5 @@ Based on the analysis, we recommend the following actions:
 - Invest in marketing and promotions to maximize revenue for Office Supplies.
 - Focus on expanding and promoting products in South region.
 - Can make bundle of most and least purchased products.
+## Dashboard
+
