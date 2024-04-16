@@ -20,12 +20,11 @@ superstore Data: The primary dataset used for this analysis is the "superstore d
 Microsoft Excel
 ## Procedure
 - Data loading and inspection.
-- Handling missing values.
+- Checking the data for missing values or anomalies
 - Data cleaning and formatting.
 - Creation of Pivot Table
 - Exploratory Data Analysis
-- Data visualization
-- Creation of Dashboard
+- Data visualization using interactive Dashboard
 
 ## Problem Analyzed 
 - What is the total sales and profit?
